@@ -78,7 +78,7 @@ h1 {
   	background-size: cover;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .bg {
     background-position: right;
     height: auto;
@@ -96,7 +96,7 @@ h1 {
 	margin-right: 5%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .wrap {
   	max-width: 100%;
     align-items: center;
@@ -121,7 +121,7 @@ h1 {
 
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .leftcol {
   	width: 100%;
   	align-self: center;
@@ -137,7 +137,7 @@ h1 {
 	display: flex;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .wrap__order {
     width: 100%;
     justify-content: center;
@@ -165,7 +165,7 @@ h1 {
 	margin-bottom: 48px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .leftcol__order {
     margin-top: 50px;
   }
@@ -193,7 +193,7 @@ h1 {
 
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .leftcol__nav {
     flex-direction: column;
     align-items: center;
@@ -228,7 +228,7 @@ h1 {
 	margin-bottom: 65px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .leftcol__content {
   	width: 70%;
     justify-content: center;
@@ -247,7 +247,7 @@ h1 {
 	margin-left: 5px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .leftcol__content p {
   	width: 100%;
     justify-content: center;
@@ -262,7 +262,7 @@ h1 {
 display: flex;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .leftcol__stores {
   	width: 100%;
     justify-content: center;
@@ -343,7 +343,7 @@ display: flex;
 	min-width: 450px;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1024px) {
   .rightcol {
     display: none;
   }
@@ -368,7 +368,7 @@ display: flex;
 	justify-content: space-between;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .footer {
   	width: 100%;
     justify-content: center;
@@ -382,7 +382,7 @@ display: flex;
 	width: 20%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .footer__social {
   	/*width: 100%;*/
     justify-content: center;
@@ -401,7 +401,7 @@ display: flex;
 	width: 40%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .footer__natural {
   	display: none;
    }
@@ -419,7 +419,7 @@ display: flex;
 	
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
   .footer__arrows {    
     display: none;
   }
