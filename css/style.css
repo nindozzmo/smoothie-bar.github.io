@@ -287,10 +287,12 @@ display: flex;
 	border-radius: 18px;
 	display: flex;
 	justify-content: center;
+	align-items: center;
 	text-align: left;
 	height: 60.5px;
 	width: 193px;
 	margin-right: 17.5px;
+	padding: auto;
 }
 
 .leftcol__stores__button a {
@@ -301,7 +303,6 @@ display: flex;
 	height: 60.5px;
 	width: 193px;
 	text-align: left;
-	
 }
 
 .leftcol__stores__button a:hover {
@@ -314,10 +315,10 @@ display: flex;
 	/*border: 1px solid;*/
 	display: flex;
 	justify-content: center;
-	width: 40px;
-	padding: 8px 0px;
+	width: 30px;
+	padding: 15px 0px;
 	margin-left: 25px;
-	margin-right: 0px;
+	margin-right: 5px;
 }
 
 .leftcol__stores__info {
