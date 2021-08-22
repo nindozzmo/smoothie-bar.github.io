@@ -171,6 +171,7 @@ h1 {
   	width: 370px;
 	height: 98px;
 	border-radius: 48px;
+	margin-top: 80px;
   }
 }
 
@@ -259,6 +260,7 @@ h1 {
 @media (max-width: 1024px) {
   .leftcol__content p {
   	font-size: 37px;
+  	text-align: center;
   	width: 100%;
     justify-content: center;
     margin-left: 0px;
